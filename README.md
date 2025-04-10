@@ -14,5 +14,5 @@ segue o link : https://github.com/gabrielhgc1/inform-tica/blob/main/Quantidade%2
 ![Captura de tela 2025-03-24 194028](https://github.com/user-attachments/assets/af44b38f-e66f-44c6-8a5e-d8cda7ff21d3)
 ## 5° Atividade
 Segue o link : https://github.com/gabrielhgc1/inform-tica/blob/main/Trabalho%20INFORMATICA.pbix
-![Uploading Captura de tela 2025-04-10 191235.png…]()
+![image](https://github.com/user-attachments/assets/ea1aae87-5095-4882-9cd1-e549093ce5f0)
 
