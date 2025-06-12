@@ -22,4 +22,4 @@ https://github.com/gabrielhgc1/inform-tica/blob/main/Trabalho%20INFORMATICA%20cE
 Segue o link :https://github.com/gabrielhgc1/inform-tica/blob/main/exel%20panela_sorvete_produtos.xlsx
 ![Captura de tela 2025-06-12 200236](https://github.com/user-attachments/assets/9c95b12d-e08f-42e6-8177-602f0d56e6d9)
 ## 8°Atividade 
-Segue o link: 
+Segue o link: https://make.powerapps.com/e/0df29fef-c8fe-e4dc-87fe-cc586f9d4ae9/s/16269c5c-dd47-f011-8779-002248dfc7e0/canvas/3ca9d262-dd47-f011-8779-002248dfc7e0?utm_source=office&utm_medium=app_launcher&utm_campaign=office_referrals
