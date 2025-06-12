@@ -18,3 +18,5 @@ Segue o link : https://github.com/gabrielhgc1/inform-tica/blob/main/Trabalho%20I
 Segue o link : https://github.com/gabrielhgc1/inform-tica/blob/main/despesa_funcao%201.xlsm
 ![image](https://github.com/user-attachments/assets/d8c2e814-2afa-468d-9c2e-a6f6fbd4cf37)
 https://github.com/gabrielhgc1/inform-tica/blob/main/Trabalho%20INFORMATICA%20cERTO.pbix
+## 7° Atividade
+Segue o link :
