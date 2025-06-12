@@ -20,3 +20,6 @@ Segue o link : https://github.com/gabrielhgc1/inform-tica/blob/main/despesa_func
 https://github.com/gabrielhgc1/inform-tica/blob/main/Trabalho%20INFORMATICA%20cERTO.pbix
 ## 7° Atividade
 Segue o link :https://github.com/gabrielhgc1/inform-tica/blob/main/exel%20panela_sorvete_produtos.xlsx
+![Captura de tela 2025-06-12 200236](https://github.com/user-attachments/assets/9c95b12d-e08f-42e6-8177-602f0d56e6d9)
+## 8°Atividade 
+Segue o link: 
