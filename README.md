@@ -26,4 +26,6 @@ Segue o link: https://make.powerapps.com/e/0df29fef-c8fe-e4dc-87fe-cc586f9d4ae9/
 https://github.com/gabrielhgc1/inform-tica/blob/main/gravei%201.mp4
 ![Captura de tela 2025-06-12 203745](https://github.com/user-attachments/assets/2bcd479c-4d51-407a-ad7b-f71b617db640)
 ## Prova
-Segue o link:
+Segue o link:https://github.com/gabrielhgc1/inform-tica/blob/main/power%20bi.pbix
+![image](https://github.com/user-attachments/assets/c39b1cc8-1542-4031-a8ac-4315a9041283)
+
