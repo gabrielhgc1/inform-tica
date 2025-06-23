@@ -30,4 +30,4 @@ Segue o link:https://github.com/gabrielhgc1/inform-tica/blob/main/power%20bi.pbi
 ![image](https://github.com/user-attachments/assets/c39b1cc8-1542-4031-a8ac-4315a9041283)
 
 ![image](https://github.com/user-attachments/assets/823b486b-20a5-4315-8ef3-a6c31f4d1a22)
-Segue o link: 
+Segue o link: https://github.com/gabrielhgc1/inform-tica/blob/main/Grava%C3%A7%C3%A3o%20de%20Tela%202025-06-23%20204214.mp4
