@@ -28,4 +28,5 @@ https://github.com/gabrielhgc1/inform-tica/blob/main/gravei%201.mp4
 ## Prova
 Segue o link:https://github.com/gabrielhgc1/inform-tica/blob/main/power%20bi.pbix
 ![image](https://github.com/user-attachments/assets/c39b1cc8-1542-4031-a8ac-4315a9041283)
+segue o link: 
 
